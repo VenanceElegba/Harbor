@@ -1,1 +1,1 @@
-
+Harbor is an open source, trusted, cloud native container registry that stores, signs, and scans content. Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as security, identity control and management.
